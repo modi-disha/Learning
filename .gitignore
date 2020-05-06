@@ -63,7 +63,6 @@ frdmkl25z_rtos_examples_freertos_sem_static
 frdmkl25z_rtos_examples_freertos_spi
 frdmkl25z_rtos_examples_freertos_swtimer
 frdmkl25z_rtos_examples_freertos_tickless
-frdmkl25z_rtos_examples_freertos_uart
-
+frdmkl25z*
 
 

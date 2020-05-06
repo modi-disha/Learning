@@ -1,0 +1,2 @@
+SPI.c:21:6:SPI_init	8	static
+SPI.c:64:9:spi_loopback	16	static

@@ -1,0 +1,9 @@
+fsl_common.h:265:24:DisableGlobalIRQ	16	static
+fsl_common.h:292:20:EnableGlobalIRQ	24	static
+logger.c:38:6:log_level	64	static
+logger.c:50:6:log_enable	312	static
+logger.c:69:6:log_disable	8	static
+logger.c:77:6:log_status	8	static
+logger.c:91:6:log_string	344	static
+logger.c:109:6:log_integer	240	static
+logger.c:130:6:format_time	64	static

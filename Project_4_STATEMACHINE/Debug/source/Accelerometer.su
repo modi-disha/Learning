@@ -1,0 +1,6 @@
+Accelerometer.c:22:9:Read_XYZ_Acc_Handler	16	static
+Accelerometer.c:46:9:Process_Acc_Handler	8	static
+Accelerometer.c:59:9:Poll_Slider_Handler	24	static
+Accelerometer.c:96:9:Acc_Disconnect_Handler	8	static
+Accelerometer.c:106:9:POST_Test_Handler	16	static
+Accelerometer.c:129:6:display_accel	128	static

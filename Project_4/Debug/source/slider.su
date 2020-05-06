@@ -1,0 +1,6 @@
+slider.c:10:6:LED_init	16	static
+slider.c:26:6:TOUCH_init	16	static
+slider.c:46:10:TOUCH_Calibrate	24	static
+slider.c:60:6:LED_SetPinsOutput	16	static
+slider.c:65:6:LED_ClearPinsOutput	16	static
+slider.c:71:6:LED_PinInit	24	static

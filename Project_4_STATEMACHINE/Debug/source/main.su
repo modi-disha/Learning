@@ -1,0 +1,11 @@
+main.c:52:5:main	152	static
+main.c:230:6:end_state	8	static
+main.c:239:9:read_state1_count	8	static
+main.c:247:6:reset_state1_count	8	static
+main.c:255:9:read_state2_count	8	static
+main.c:263:6:reset_state2_count	8	static
+main.c:271:9:read_state3_count	8	static
+main.c:279:6:reset_state3_count	8	static
+main.c:287:9:Error_Handler	8	static
+main.c:296:6:change_state	8	static
+main.c:333:9:read_state	16	static

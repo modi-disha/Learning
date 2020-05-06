@@ -1,0 +1,2 @@
+slider.c:19:6:TOUCH_init	16	static
+slider.c:42:10:TOUCH_Calibrate	24	static

@@ -1,0 +1,5 @@
+MMA8451Q.c:24:5:ACC_init	16	static
+MMA8451Q.c:35:5:accel_read	40	static
+MMA8451Q.c:71:5:self_test	48	static
+MMA8451Q.c:111:6:accel_return	24	static
+MMA8451Q.c:119:6:Delay	24	static

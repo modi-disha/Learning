@@ -1,0 +1,8 @@
+led_control.c:22:6:LED_init	16	static
+led_control.c:38:6:LED_SetPinsOutput	16	static
+led_control.c:45:6:LED_ClearPinsOutput	16	static
+led_control.c:52:6:LED_PinInit	24	static
+led_control.c:75:6:LED_SetAll	8	static
+led_control.c:84:6:LED_ClearRed	8	static
+led_control.c:93:6:LED_ClearGreen	8	static
+led_control.c:102:6:LED_ClearBlue	8	static
